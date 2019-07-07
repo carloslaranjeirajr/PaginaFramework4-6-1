@@ -54,14 +54,14 @@ namespace SeleniumTests
         [TestMethod]
         public void SomandoTeste()
         {
-            driver.Navigate().GoToUrl("http://carloslaranjeirajr1.gearhostpreview.com/index");
-            driver.FindElement(By.Id("MainContent_TextBoxPrimeiroNumero")).Click();
-            driver.FindElement(By.Id("MainContent_TextBoxPrimeiroNumero")).Clear();
-            driver.FindElement(By.Id("MainContent_TextBoxPrimeiroNumero")).SendKeys("5");
-            driver.FindElement(By.Id("MainContent_TextBoxSegundoNumero")).Click();
-            driver.FindElement(By.Id("MainContent_TextBoxSegundoNumero")).Clear();
-            driver.FindElement(By.Id("MainContent_TextBoxSegundoNumero")).SendKeys("5");
-            driver.FindElement(By.Id("MainContent_ButtonCalcular")).Click();
+            driver.Navigate().GoToUrl("http://carloslaranjeirajr1.gearhostpreview.com/index.aspx");
+            driver.FindElement(By.Id("TextBoxPrimeiroNumero")).Click();
+            driver.FindElement(By.Id("TextBoxPrimeiroNumero")).Clear();
+            driver.FindElement(By.Id("TextBoxPrimeiroNumero")).SendKeys("5");
+            driver.FindElement(By.Id("TextBoxSegundoNumero")).Click();
+            driver.FindElement(By.Id("TextBoxSegundoNumero")).Clear();
+            driver.FindElement(By.Id("TextBoxSegundoNumero")).SendKeys("5");
+            driver.FindElement(By.Id("ButtonCalcular")).Click();
             try
             {
                 Assert.AreEqual("10", driver.FindElement(By.Id("MainContent_LabelResultado")).Text);
