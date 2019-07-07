@@ -1,28 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juba\\Documents\\GitHub\\PaginaWeb\\SeleniumTestes\\SeleniumTestes.csproj": {}
+    "C:\\Users\\Juba\\Documents\\GitHub\\PaginaFramework4-6-1\\PaginaWeb\\SeleniumTestes\\SeleniumTestes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juba\\Documents\\GitHub\\PaginaWeb\\PaginaWebTeste\\PaginaWebTeste.csproj": {
+    "C:\\Users\\Juba\\Documents\\GitHub\\PaginaFramework4-6-1\\PaginaWeb\\PaginaWebTeste\\PaginaWebTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juba\\Documents\\GitHub\\PaginaWeb\\PaginaWebTeste\\PaginaWebTeste.csproj",
+        "projectUniqueName": "C:\\Users\\Juba\\Documents\\GitHub\\PaginaFramework4-6-1\\PaginaWeb\\PaginaWebTeste\\PaginaWebTeste.csproj",
         "projectName": "PaginaWebTeste",
-        "projectPath": "C:\\Users\\Juba\\Documents\\GitHub\\PaginaWeb\\PaginaWebTeste\\PaginaWebTeste.csproj"
+        "projectPath": "C:\\Users\\Juba\\Documents\\GitHub\\PaginaFramework4-6-1\\PaginaWeb\\PaginaWebTeste\\PaginaWebTeste.csproj"
       },
       "frameworks": {
         "net461": {}
       }
     },
-    "C:\\Users\\Juba\\Documents\\GitHub\\PaginaWeb\\SeleniumTestes\\SeleniumTestes.csproj": {
+    "C:\\Users\\Juba\\Documents\\GitHub\\PaginaFramework4-6-1\\PaginaWeb\\SeleniumTestes\\SeleniumTestes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juba\\Documents\\GitHub\\PaginaWeb\\SeleniumTestes\\SeleniumTestes.csproj",
+        "projectUniqueName": "C:\\Users\\Juba\\Documents\\GitHub\\PaginaFramework4-6-1\\PaginaWeb\\SeleniumTestes\\SeleniumTestes.csproj",
         "projectName": "SeleniumTestes",
-        "projectPath": "C:\\Users\\Juba\\Documents\\GitHub\\PaginaWeb\\SeleniumTestes\\SeleniumTestes.csproj",
+        "projectPath": "C:\\Users\\Juba\\Documents\\GitHub\\PaginaFramework4-6-1\\PaginaWeb\\SeleniumTestes\\SeleniumTestes.csproj",
         "packagesPath": "C:\\Users\\Juba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juba\\Documents\\GitHub\\PaginaWeb\\SeleniumTestes\\obj\\",
+        "outputPath": "C:\\Users\\Juba\\Documents\\GitHub\\PaginaFramework4-6-1\\PaginaWeb\\SeleniumTestes\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -39,8 +39,8 @@
         "frameworks": {
           "net461": {
             "projectReferences": {
-              "C:\\Users\\Juba\\Documents\\GitHub\\PaginaWeb\\PaginaWebTeste\\PaginaWebTeste.csproj": {
-                "projectPath": "C:\\Users\\Juba\\Documents\\GitHub\\PaginaWeb\\PaginaWebTeste\\PaginaWebTeste.csproj"
+              "C:\\Users\\Juba\\Documents\\GitHub\\PaginaFramework4-6-1\\PaginaWeb\\PaginaWebTeste\\PaginaWebTeste.csproj": {
+                "projectPath": "C:\\Users\\Juba\\Documents\\GitHub\\PaginaFramework4-6-1\\PaginaWeb\\PaginaWebTeste\\PaginaWebTeste.csproj"
               }
             }
           }

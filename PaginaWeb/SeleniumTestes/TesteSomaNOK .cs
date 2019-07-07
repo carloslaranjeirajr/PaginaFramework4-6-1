@@ -54,7 +54,7 @@ namespace SeleniumTests
         [TestMethod]
         public void SomandoTesteNOK()
         {
-            driver.Navigate().GoToUrl("http://carloslaranjeirajr.gearhostpreview.com/index");
+            driver.Navigate().GoToUrl("http://carloslaranjeirajr1.gearhostpreview.com/index");
             driver.FindElement(By.Id("MainContent_TextBoxPrimeiroNumero")).Click();
             driver.FindElement(By.Id("MainContent_TextBoxPrimeiroNumero")).Clear();
             driver.FindElement(By.Id("MainContent_TextBoxPrimeiroNumero")).SendKeys("4");
