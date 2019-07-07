@@ -64,7 +64,7 @@ namespace SeleniumTests
             driver.FindElement(By.Id("ButtonCalcular")).Click();
             try
             {
-                Assert.AreEqual("10", driver.FindElement(By.Id("MainContent_LabelResultado")).Text);
+                Assert.AreEqual("10", driver.FindElement(By.Id("LabelResultado")).Text);
             }
             catch (Exception e)
             {
