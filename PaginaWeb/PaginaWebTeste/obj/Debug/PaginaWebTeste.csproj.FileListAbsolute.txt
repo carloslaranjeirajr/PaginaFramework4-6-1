@@ -159,7 +159,6 @@ C:\Users\Juba\Documents\GitHub\PaginaFramework4-6-1\PaginaWeb\PaginaWebTeste\bin
 C:\Users\Juba\Documents\GitHub\PaginaFramework4-6-1\PaginaWeb\PaginaWebTeste\bin\pt-br\System.Web.WebPages.resources.dll
 C:\Users\Juba\Documents\GitHub\PaginaFramework4-6-1\PaginaWeb\PaginaWebTeste\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
 C:\Users\Juba\Documents\GitHub\PaginaFramework4-6-1\PaginaWeb\PaginaWebTeste\bin\pt-br\System.Web.WebPages.Razor.resources.dll
-C:\Users\Juba\Documents\GitHub\PaginaFramework4-6-1\PaginaWeb\PaginaWebTeste\obj\Debug\PaginaWebTeste.csprojAssemblyReference.cache
 C:\Users\Juba\Documents\GitHub\PaginaFramework4-6-1\PaginaWeb\PaginaWebTeste\obj\Debug\PaginaWebTeste.csproj.CoreCompileInputs.cache
 C:\Users\Juba\Documents\GitHub\PaginaFramework4-6-1\PaginaWeb\PaginaWebTeste\obj\Debug\PaginaWebTeste.csproj.CopyComplete
 C:\Users\Juba\Documents\GitHub\PaginaFramework4-6-1\PaginaWeb\PaginaWebTeste\obj\Debug\PaginaWebTeste.dll
